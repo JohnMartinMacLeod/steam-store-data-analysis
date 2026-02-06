@@ -28,3 +28,9 @@ answering questions such as:
 ## Tools Used
 
 
+
+## My Portfolio
+
+To browse the rest of my portfolio, follow the link below!
+
+[Portfolio](https://github.com/JohnMartinMacLeod/data-portfolio)
